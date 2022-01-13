@@ -1,16 +1,16 @@
 {
    "defaults": {
-      "adapter": "postgres",
+      "adapter": "oracle",
       "host": "localhost"
    },
    "development": {
       "database": "myapp_development",
-      "adapter": "postgres",
+      "adapter": "oracle",
       "host": "localhost"
    },
    "test": {
       "database": "myapp_test",
-      "adapter": "postgres",
+      "adapter": "oracle",
       "host": "localhost"
    }
 }
